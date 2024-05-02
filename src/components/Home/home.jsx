@@ -1,7 +1,6 @@
 import { Box, Stack, Typography } from '@mui/material';
 import React from 'react';
 import Nav from '../nav/nav';
-import PersonalImage from '../../assets/images/IMG_yphqhh222-removebg.png';
 import CustomButton from '../../utils/customButton';
 import { motion } from 'framer-motion';
 const myVariants = {
@@ -143,7 +142,7 @@ const Home = () => {
 					</motion.a>
 				</Stack>
 
-				<Box
+				{/* <Box
 					className="personalImage"
 					sx={{ display: { xs: 'none', md: 'block' } }}>
 					<motion.img
@@ -157,7 +156,7 @@ const Home = () => {
 						src={PersonalImage}
 						alt="Bharat Gupta"
 					/>
-				</Box>
+				</Box> */}
 			</Stack>
 		</Box>
 	);
