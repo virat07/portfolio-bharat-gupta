@@ -2,7 +2,7 @@
 
 This is my portfolio website showcasing my frontend development projects, experience, skills and, much more.
 
-![Portfolio Screenshot](./src/assets/images/Screenshot.png)
+
 
 ## Table of Contents
 
